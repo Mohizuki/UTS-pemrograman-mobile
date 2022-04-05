@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Job List</string>
+    <string name="affirmation1">Accountant</string>
+    <string name="affirmation2">Pilot</string>
+    <string name="affirmation3">Civil Engineer</string>
+    <string name="affirmation4">Chef</string>
+    <string name="affirmation5">Dentist</string>
+    <string name="affirmation6">Nurse</string>
+    <string name="affirmation7">Developer / Programmer</string>
+    <string name="affirmation8">Police Officer</string>
+    <string name="affirmation9">Journalist</string>
+    <string name="affirmation10">Secondary School Teacher</string>
+    <string name="gaji1">9,160,000 IDR</string>
+    <string name="gaji2">22,500,000 IDR</string>
+    <string name="gaji3">12,000,000 IDR</string>
+    <string name="gaji4">8,200,000 IDR</string>
+    <string name="gaji5">29,300,000 IDR</string>
+    <string name="gaji6">10,000,000 IDR</string>
+    <string name="gaji7">12,800,000 IDR</string>
+    <string name="gaji8">7,250,000 IDR</string>
+    <string name="gaji9">14,900,000 IDR</string>
+    <string name="gaji10">10,200,000 IDR</string>
+
+
+</resources>
