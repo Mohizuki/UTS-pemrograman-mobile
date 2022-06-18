@@ -32,7 +32,6 @@ class ItemAdapter(
         holder.imageView.setImageResource(item.imageResourceId)
     }
 
-
     override fun getItemCount(): Int {
         return dataset.size
     }
